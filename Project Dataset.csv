@@ -1,0 +1,100 @@
+﻿Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,xGOT
+1,Erling Haaland,no NOR,FW,Manchester City,eng Premier League,22,2000,30.8,36,116,53,45.7,3.77,1.72,0.25,0.55,12.6,0,7,7,28.4,23.1,0.2,7.6,5.9,29
+3,Kylian Mbappé,fr FRA,FW,Paris S-G,fr Ligue 1,23,1998,31.3,29,144,73,50.7,4.6,2.33,0.18,0.36,15.9,1,3,5,26.3,22.2,0.15,2.7,3.8,26.7
+6,Jonathan David,ca CAN,FW,Lille,fr Ligue 1,22,2000,35.2,24,95,44,46.3,2.7,1.25,0.15,0.32,15.8,0,10,11,23.6,15.1,0.16,0.4,-1.1,24.7
+2,Harry Kane,eng ENG,FW,Tottenham,eng Premier League,29,1993,37.8,30,124,54,43.5,3.28,1.43,0.2,0.46,16,3,5,6,21.5,16.7,0.13,8.5,8.3,24.4
+8,Folarin Balogun,us USA,FW,Reims,fr Ligue 1,21,2001,33.3,21,121,50,41.3,3.63,1.5,0.12,0.3,15.2,2,6,7,26.6,21,0.18,-5.6,-6,23.6
+4,Alexandre Lacazette,fr FRA,FW,Lyon,fr Ligue 1,31,1991,32.5,27,107,47,43.9,3.29,1.44,0.2,0.45,14.4,8,6,8,24.1,17.8,0.17,2.9,3.2,23.1
+7,Robert Lewandowski,pl POL,FW,Barcelona,es La Liga,33,1988,31.6,23,134,56,41.8,4.24,1.77,0.17,0.41,13.8,5,0,1,24.3,23.5,0.18,-1.3,-0.5,22.8
+5,Victor Osimhen,ng NGA,FW,Napoli,it Serie A,23,1998,28.5,26,132,52,39.4,4.63,1.82,0.18,0.46,12.8,1,2,3,21.3,18.9,0.14,4.7,5.1,21.4
+13,Wissam Ben Yedder,fr FRA,FW,Monaco,fr Ligue 1,31,1990,23.5,19,66,36,54.5,2.81,1.53,0.21,0.39,14.2,3,5,6,17.4,12.7,0.19,1.6,1.3,20.2
+11,Habib Diallo,sn SEN,FW,Strasbourg,fr Ligue 1,27,1995,32,20,90,36,40,2.81,1.13,0.19,0.47,13,1,3,4,17.8,14.5,0.17,2.2,2.5,20.1
+22,Lionel Messi,ar ARG,"FW,MF",Paris S-G,fr Ligue 1,35,1987,31.5,16,129,55,42.6,4.09,1.74,0.12,0.29,18.3,20,0,0,15.5,15.5,0.12,0.5,0.5,19.9
+12,Ivan Toney,eng ENG,FW,Brentford,eng Premier League,26,1996,32.8,20,87,33,37.9,2.65,1.01,0.16,0.42,16.5,9,6,7,18.7,13.2,0.15,1.3,0.8,19.6
+18,Marcus Rashford,eng ENG,FW,Manchester Utd,eng Premier League,24,1997,32,17,108,49,45.4,3.38,1.53,0.16,0.35,16.4,7,0,0,15.4,15.4,0.15,1.6,1.6,18.6
+15,Mohamed Salah,eg EGY,FW,Liverpool,eng Premier League,30,1992,36.6,19,121,45,37.2,3.31,1.23,0.14,0.38,15.1,2,2,4,21.7,18.5,0.15,-2.7,-1.5,18.5
+14,Karim Benzema,fr FRA,FW,Real Madrid,es La Liga,34,1987,22.6,19,99,36,36.4,4.37,1.59,0.12,0.33,15.9,6,7,8,21.5,14.9,0.15,-2.5,-2.9,18.4
+9,Lautaro Martínez,ar ARG,FW,Inter,it Serie A,24,1997,28.6,21,125,51,40.8,4.37,1.78,0.16,0.39,15.1,0,1,2,18.1,16.5,0.14,2.9,3.5,18
+10,Loïs Openda,be BEL,FW,Lens,fr Ligue 1,22,2000,28,21,103,49,47.6,3.68,1.75,0.19,0.41,13.1,0,1,1,18.5,17.7,0.17,2.5,2.3,17.3
+16,Elye Wahi,fr FRA,FW,Montpellier,fr Ligue 1,19,2003,27.9,19,62,36,58.1,2.22,1.29,0.29,0.5,14.5,1,1,1,12.2,11.4,0.18,6.8,6.6,16.4
+31,Vedat Muriqi,xk KVX,FW,Mallorca,es La Liga,28,1994,32.6,15,71,25,35.2,2.18,0.77,0.15,0.44,15.3,0,4,5,12.5,8.6,0.12,2.5,2.4,16.3
+20,Niclas Füllkrug,de GER,FW,Werder Bremen,de Bundesliga,29,1993,27.5,16,74,32,43.2,2.69,1.16,0.15,0.34,16,0,5,5,12.8,8.6,0.12,3.2,2.4,16
+17,Callum Wilson,eng ENG,FW,Newcastle Utd,eng Premier League,30,1992,20.9,18,70,31,44.3,3.36,1.49,0.21,0.48,12.4,0,3,3,17.5,15.1,0.22,0.5,-0.1,15.8
+35,Aleksandar Mitrović,rs SRB,FW,Fulham,eng Premier League,27,1994,22.3,14,85,27,31.8,3.81,1.21,0.12,0.37,15.1,0,4,8,14.9,8.6,0.1,-0.9,1.4,15.8
+32,Ollie Watkins,eng ENG,FW,Aston Villa,eng Premier League,26,1995,34.7,15,84,45,53.6,2.42,1.3,0.17,0.31,12.6,0,1,2,16.5,14.9,0.18,-1.5,-0.9,15
+26,Vincenzo Grifo,it ITA,"MF,FW",Freiburg,de Bundesliga,29,1993,26.8,15,58,25,43.1,2.17,0.93,0.14,0.32,22.6,15,7,8,10.3,3.9,0.07,4.7,4.1,15
+27,Borja Iglesias,es ESP,FW,Betis,es La Liga,29,1993,26.3,15,58,21,36.2,2.21,0.8,0.17,0.48,15.2,0,5,6,14.9,10.2,0.18,0.1,-0.2,14.8
+21,Joselu,es ESP,FW,Espanyol,es La Liga,32,1990,33.2,16,87,33,37.9,2.62,0.99,0.13,0.33,16.1,2,5,5,14.5,10.5,0.12,1.5,0.5,14.2
+23,Christopher Nkunku,fr FRA,"FW,MF",RB Leipzig,de Bundesliga,24,1997,21.1,16,70,25,35.7,3.32,1.19,0.19,0.52,15.9,7,3,4,14.4,11.3,0.16,1.6,1.7,14.2
+29,Rafael Leão,pt POR,"FW,MF",Milan,it Serie A,23,1999,26.9,15,92,29,31.5,3.42,1.08,0.16,0.52,17.9,0,0,0,10.8,10.8,0.12,4.2,4.2,13.5
+24,Amine Gouiri,fr FRA,"FW,MF",Rennes,fr Ligue 1,22,2000,28,15,74,30,40.5,2.64,1.07,0.2,0.5,13.6,0,0,0,11.1,11.1,0.15,3.9,3.9,13.2
+28,Randal Kolo Muani,fr FRA,FW,Eint Frankfurt,de Bundesliga,23,1998,29.2,15,75,30,40,2.57,1.03,0.17,0.43,13,0,2,2,13.2,11.6,0.16,1.8,1.4,12.7
+25,Antoine Griezmann,fr FRA,"FW,MF",Atlético Madrid,es La Liga,31,1991,31.8,15,111,44,39.6,3.49,1.39,0.14,0.34,17.6,5,0,0,12.3,12.3,0.11,2.7,2.7,11.7
+30,Martinelli,br BRA,FW,Arsenal,eng Premier League,21,2001,31,15,79,30,38,2.55,0.97,0.19,0.5,15.4,2,0,0,9.3,9.3,0.12,5.7,5.7,10.8
+19,Boulaye Dia,sn SEN,"FW,MF",Salernitana,it Serie A,25,1996,28,16,47,21,44.7,1.68,0.75,0.32,0.71,15,0,1,1,8.8,8,0.17,7.2,7,10.1
+33,Martin Ødegaard,no NOR,MF,Arsenal,eng Premier League,23,1998,34.7,15,93,31,33.3,2.68,0.89,0.16,0.48,19.2,9,0,0,10,10,0.11,5,5,9.6
+48,Marcus Thuram,fr FRA,FW,M'Gladbach,de Bundesliga,24,1997,27.9,13,92,44,47.8,3.29,1.58,0.14,0.3,12.7,0,0,0,16.5,16.5,0.18,-3.5,-3.5,
+52,Marvin Ducksch,de GER,FW,Werder Bremen,de Bundesliga,28,1994,31.7,12,94,43,45.7,2.97,1.36,0.13,0.28,19.1,14,0,1,11.3,10.5,0.11,0.7,1.5,
+34,Serge Gnabry,de GER,"FW,MF",Bayern Munich,de Bundesliga,27,1995,21.6,14,81,40,49.4,3.76,1.85,0.16,0.33,15.5,1,1,1,11.2,10.4,0.13,2.8,2.6,
+42,Gaëtan Laborde,fr FRA,FW,Nice,fr Ligue 1,28,1994,27.8,13,74,39,52.7,2.66,1.4,0.18,0.33,15.7,1,0,1,11.8,11,0.15,1.2,2,
+84,Son Heung-min,kr KOR,"MF,FW",Tottenham,eng Premier League,30,1992,32.1,10,81,38,46.9,2.52,1.18,0.12,0.26,18.3,5,0,0,10.1,10.1,0.12,-0.1,-0.1,
+83,Michael Gregoritsch,at AUT,FW,Freiburg,de Bundesliga,28,1994,23.9,10,67,38,56.7,2.8,1.59,0.15,0.26,14.6,1,0,0,10,10,0.15,0,0,
+87,Vinicius Júnior,br BRA,FW,Real Madrid,es La Liga,22,2000,31.4,10,77,36,46.8,2.45,1.15,0.13,0.28,16.2,0,0,0,10.5,10.5,0.14,-0.5,-0.5,
+39,Harvey Barnes,eng ENG,"FW,MF",Leicester City,eng Premier League,24,1997,30.1,13,72,34,47.2,2.39,1.13,0.18,0.38,15.9,0,0,0,8.9,8.9,0.12,4.1,4.1,
+44,Álvaro Morata,es ESP,FW,Atlético Madrid,es La Liga,29,1992,21.1,13,71,32,45.1,3.36,1.52,0.18,0.41,12.2,0,0,0,11.8,11.8,0.17,1.2,1.2,
+40,Valentín Castellanos,ar ARG,FW,Girona,es La Liga,23,1998,28.9,13,85,32,37.6,2.95,1.11,0.14,0.38,15,0,1,1,11,10.2,0.12,2,1.8,
+98,Iñaki Williams,gh GHA,FW,Athletic Club,es La Liga,28,1994,31.5,10,83,32,38.6,2.63,1.02,0.11,0.28,15.1,0,1,2,10.7,9.1,0.11,-0.7,-0.1,
+95,Karim Onisiwo,at AUT,"FW,MF",Mainz 05,de Bundesliga,30,1992,28.2,10,68,32,47.1,2.41,1.13,0.15,0.31,15.6,0,0,0,8.2,8.2,0.12,1.8,1.8,
+51,Thijs Dallinga,nl NED,FW,Toulouse,fr Ligue 1,21,2000,26.1,12,63,32,50.8,2.41,1.22,0.19,0.38,,,0,0,,,,,,
+72,Gabriel Jesus,br BRA,FW,Arsenal,eng Premier League,25,1997,22.9,11,76,31,40.8,3.31,1.35,0.13,0.32,10.6,0,1,1,14,13.2,0.18,-3,-3.2,
+38,Enes Ünal,tr TUR,FW,Getafe,es La Liga,25,1997,33,14,82,31,37.8,2.48,0.94,0.11,0.29,18.8,16,5,6,11.7,7.1,0.09,2.3,1.9,
+56,Ciro Immobile,it ITA,FW,Lazio,it Serie A,32,1990,24.7,12,72,30,41.7,2.92,1.22,0.11,0.27,15,0,4,5,14.2,10.3,0.14,-2.2,-2.3,
+76,Zakaria Aboukhlal,ma MAR,"FW,MF",Toulouse,fr Ligue 1,22,2000,27.5,10,83,30,36.1,3.02,1.09,0.12,0.33,15.9,0,0,0,11.5,11.5,0.14,-1.5,-1.5,
+59,Khvicha Kvaratskhelia,ge GEO,FW,Napoli,it Serie A,21,2001,28,12,83,30,36.1,2.97,1.07,0.12,0.33,19.1,3,2,2,8.2,6.6,0.08,3.8,3.4,
+41,Olivier Giroud,fr FRA,FW,Milan,it Serie A,35,1986,23.8,13,77,29,37.7,3.24,1.22,0.13,0.34,12.7,6,3,3,12.7,10.4,0.14,0.3,-0.4,
+37,Alexis Sánchez,cl CHI,"FW,MF",Marseille,fr Ligue 1,33,1988,29.8,14,63,29,46,2.12,0.97,0.19,0.41,15.2,5,2,3,12.6,10.2,0.17,1.4,1.8,
+36,Bukayo Saka,eng ENG,FW,Arsenal,eng Premier League,20,2001,35.3,14,86,29,33.7,2.43,0.82,0.14,0.41,16.3,1,2,3,11.2,9.1,0.11,2.8,2.9,
+49,Iago Aspas,es ESP,FW,Celta Vigo,es La Liga,34,1987,31.9,12,75,29,38.7,2.35,0.91,0.13,0.34,19.5,7,2,3,11.1,8.7,0.12,0.9,1.3,
+75,Gabriel Veiga,es ESP,MF,Celta Vigo,es La Liga,20,2002,25.5,11,62,29,46.8,2.43,1.14,0.18,0.38,19.8,0,0,0,6.1,6.1,0.1,4.9,4.9,
+92,Alexis Mac Allister,ar ARG,MF,Brighton,eng Premier League,23,1998,32.1,10,80,28,35,2.49,0.87,0.05,0.14,22.5,8,6,6,12.1,7.3,0.09,-2.1,-3.3,
+65,Alexander Sørloth,no NOR,FW,Real Sociedad,es La Liga,26,1995,26.5,12,63,27,42.9,2.38,1.02,0.19,0.44,11.3,0,0,0,12.7,12.7,0.2,-0.7,-0.7,
+74,Riccardo Orsolini,it ITA,FW,Bologna,it Serie A,25,1997,23.6,11,89,27,30.3,3.77,1.14,0.09,0.3,20.8,8,3,3,10.5,8.1,0.09,0.5,-0.1,
+93,James Maddison,eng ENG,"MF,FW",Leicester City,eng Premier League,25,1996,27.6,10,83,27,32.5,3.01,0.98,0.11,0.33,21.1,13,1,2,8.7,6.6,0.08,1.3,2.4,
+67,Sheraldo Becker,sr SUR,FW,Union Berlin,de Bundesliga,27,1995,28.4,11,67,26,38.8,2.36,0.92,0.16,0.42,18.3,0,0,0,6.5,6.5,0.1,4.5,4.5,
+80,Martin Braithwaite,dk DEN,"FW,MF",Espanyol,es La Liga,31,1991,27.3,10,58,25,43.1,2.13,0.92,0.17,0.4,16,4,0,0,9.2,9.2,0.16,0.8,0.8,
+47,Rodrigo,es ESP,"FW,MF",Leeds United,eng Premier League,31,1991,21.5,13,66,25,37.9,3.07,1.16,0.18,0.48,15.8,2,1,1,8.1,7.3,0.11,4.9,4.7,
+61,Jamal Musiala,de GER,"MF,FW",Bayern Munich,de Bundesliga,19,2003,24.4,12,66,25,37.9,2.7,1.02,0.18,0.48,15.8,0,0,0,8,8,0.12,4,4,
+81,Eberechi Eze,eng ENG,"MF,FW",Crystal Palace,eng Premier League,24,1998,29.3,10,70,25,35.7,2.39,0.85,0.13,0.36,21.9,14,1,1,7.3,6.5,0.09,2.7,2.5,
+69,Roberto Firmino,br BRA,"FW,MF",Liverpool,eng Premier League,30,1991,13.5,11,39,25,64.1,2.89,1.85,0.28,0.44,12.3,0,0,0,5.5,5.5,0.14,5.5,5.5,
+62,Mama Samba Baldé,gw GNB,FW,Troyes,fr Ligue 1,26,1995,29.6,12,73,24,32.9,2.47,0.81,0.14,0.42,17.1,0,2,2,10.6,9.1,0.12,1.4,0.9,
+63,Antonio Sanabria,py PAR,FW,Torino,it Serie A,26,1996,27,12,67,24,35.8,2.48,0.89,0.16,0.46,13.5,0,1,1,9.3,8.5,0.13,2.7,2.5,
+64,Téji Savanier,fr FRA,MF,Montpellier,fr Ligue 1,30,1991,28.3,12,58,24,41.4,2.05,0.85,0.1,0.25,27,19,6,6,8.6,3.8,0.07,3.4,2.2,
+43,Ademola Lookman,ng NGA,"FW,MF",Atalanta,it Serie A,24,1997,19.2,13,49,23,46.9,2.55,1.2,0.2,0.43,15.8,1,3,3,9.1,6.7,0.14,3.9,3.3,
+68,Marius Bülter,de GER,"FW,MF",Schalke 04,de Bundesliga,29,1993,28.9,11,64,23,35.9,2.22,0.8,0.11,0.3,18.4,1,4,4,9,6.1,0.1,2,0.9,
+90,Jérémy Le Douaron,fr FRA,"MF,FW",Brest,fr Ligue 1,24,1998,23,10,55,23,41.8,2.39,1,0.18,0.43,11.1,0,0,0,8.4,8.4,0.16,1.6,1.6,
+86,Alexander Isak,se SWE,FW,Newcastle Utd,eng Premier League,22,1999,16.9,10,49,23,46.9,2.9,1.36,0.16,0.35,15,0,2,2,8.2,6.7,0.14,1.8,1.3,
+57,Nicolas Jackson,sn SEN,FW,Villarreal,es La Liga,21,2001,17.8,12,41,23,56.1,2.31,1.3,0.29,0.52,13.4,0,0,0,8,8,0.2,4,4,
+88,Teun Koopmeiners,nl NED,MF,Atalanta,it Serie A,24,1998,31.8,10,55,23,41.8,1.73,0.72,0.15,0.35,21.9,6,2,4,7.6,4.3,0.08,2.4,3.7,
+99,Mattia Zaccagni,it ITA,FW,Lazio,it Serie A,27,1995,30.8,10,56,23,41.1,1.82,0.75,0.16,0.39,16.7,1,1,1,6.7,5.9,0.11,3.3,3.1,
+73,Dodi Lukebakio,be BEL,"FW,MF",Hertha BSC,de Bundesliga,24,1997,26.6,11,59,22,37.3,2.22,0.83,0.1,0.27,20.3,1,5,5,8.6,4.7,0.08,2.4,1.3,
+82,Kévin Gameiro,fr FRA,FW,Strasbourg,fr Ligue 1,35,1987,23.3,10,44,22,50,1.89,0.94,0.2,0.41,13,0,1,2,8,6.3,0.14,2,2.7,
+55,Jonas Hofmann,de GER,"FW,MF",M'Gladbach,de Bundesliga,30,1992,29.8,12,44,22,50,1.48,0.74,0.27,0.55,19,5,0,1,7.2,6.6,0.15,4.8,5.4,
+70,Phil Foden,eng ENG,FW,Manchester City,eng Premier League,22,2000,20.5,11,46,22,47.8,2.25,1.07,0.24,0.5,15.3,1,0,0,5.9,5.9,0.13,5.1,5.1,
+58,Andrej Kramarić,hr CRO,"MF,FW",Hoffenheim,de Bundesliga,31,1991,26.5,12,57,21,36.8,2.15,0.79,0.14,0.38,18,4,4,6,13.2,8.5,0.15,-1.2,-0.5,
+46,M'Bala Nzola,ao ANG,FW,Spezia,it Serie A,25,1996,29.5,13,60,20,33.3,2.04,0.68,0.17,0.5,14.9,0,3,3,11,8.6,0.14,2,1.4,
+79,Beto,gw GNB,FW,Udinese,it Serie A,24,1998,23.7,10,60,20,33.3,2.54,0.85,0.15,0.45,13.7,0,1,1,10.9,10.1,0.17,-0.9,-1.1,
+97,Dušan Vlahović,rs SRB,FW,Juventus,it Serie A,22,2000,21.4,10,65,20,30.8,3.04,0.94,0.12,0.4,15.5,4,2,3,9.7,7.3,0.11,0.3,0.7,
+91,Romelu Lukaku,be BEL,FW,Inter,it Serie A,29,1993,18.4,10,49,20,40.8,2.66,1.08,0.16,0.4,15,0,2,2,9,7.4,0.15,1,0.6,
+54,Breel Embolo,ch SUI,FW,Monaco,fr Ligue 1,25,1997,20.7,12,40,20,50,1.94,0.97,0.3,0.6,10.9,0,0,1,8.5,7.6,0.19,3.5,4.4,
+66,Miguel Almirón,py PAR,FW,Newcastle Utd,eng Premier League,28,1994,27.7,11,69,20,29,2.49,0.72,0.16,0.55,16.4,0,0,0,8,8,0.12,3,3,
+89,Grejohn Kyei,fr FRA,FW,Clermont Foot,fr Ligue 1,26,1995,24.8,10,54,19,35.2,2.18,0.77,0.11,0.32,17.5,0,4,6,11.7,7,0.13,-1.7,-1,
+50,Domenico Berardi,it ITA,FW,Sassuolo,it Serie A,27,1994,20.7,12,75,19,25.3,3.62,0.92,0.07,0.26,22,4,7,8,11.4,5.1,0.07,0.6,-0.1,
+96,Oihan Sancet,es ESP,MF,Athletic Club,es La Liga,22,2000,28.1,10,56,19,33.9,1.99,0.68,0.14,0.42,17.6,0,2,2,7.6,6,0.11,2.4,2,
+71,Serhou Guirassy,gn GUI,FW,Stuttgart,de Bundesliga,26,1996,18.3,11,47,18,38.3,2.57,0.98,0.19,0.5,15.7,4,2,2,10.8,9.2,0.2,0.2,-0.2,
+53,Paulo Dybala,ar ARG,"MF,FW",Roma,it Serie A,28,1993,19.3,12,60,18,30,3.11,0.93,0.12,0.39,20.7,3,5,5,9.3,5.3,0.09,2.7,1.7,
+45,Neymar,br BRA,"MF,FW",Paris S-G,fr Ligue 1,30,1992,17.2,13,36,18,50,2.1,1.05,0.31,0.61,16.8,6,2,2,8.1,6.5,0.18,4.9,4.5,
+60,Terem Moffi,ng NGA,FW,Lorient,fr Ligue 1,23,1999,15.4,12,33,18,54.5,2.14,1.17,0.33,0.61,13.6,0,1,2,7.3,5.7,0.17,4.7,5.3,
+77,Marko Arnautović,at AUT,FW,Bologna,it Serie A,33,1989,17,10,28,15,53.6,1.65,0.88,0.25,0.47,15.5,0,3,3,7.2,4.8,0.17,2.8,2.2,
+78,Taiwo Awoniyi,ng NGA,FW,Nott'ham Forest,eng Premier League,24,1997,15.6,10,35,15,42.9,2.24,0.96,0.29,0.67,11.8,0,0,0,6.6,6.6,0.19,3.4,3.4,
+94,Eric Maxim Choupo-Moting,cm CMR,FW,Bayern Munich,de Bundesliga,33,1989,12.4,10,30,15,50,2.43,1.21,0.33,0.67,12.6,0,0,1,6.1,5.3,0.18,3.9,4.7,
+85,Marcus Ingvartsen,dk DEN,"FW,MF",Mainz 05,de Bundesliga,26,1996,14.6,10,32,13,40.6,2.19,0.89,0.19,0.46,15.5,1,4,4,8.4,5.2,0.16,1.6,0.8,
